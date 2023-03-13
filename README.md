@@ -1,5 +1,6 @@
 # IMU_Logger
-C++ code to log IMU data to Adafruit feather m0 and a Adafruit featherwing data logger. 
+C++ code to log IMU data to Adafruit feather m0 and a Adafruit featherwing data logger. SD connection made over SPI, logger connection made over I2c. Max SPI speed is
+12 MHz
 
 Hardware used (All products from adafruit.com):
 * Stacking female headers - Part No. 2830
@@ -9,3 +10,4 @@ Hardware used (All products from adafruit.com):
 * Adafruit 9-Dof Orientation IMU Fusion Breakout - BNO085 - Stemma QT/Qwiic - Part No. 4754
 * CR1220 12 mm Diameter - 3V Lithium Coin Cell Battery
 * Adalogger Featherwing - RTC + SD Add-on for all Feather boards - Part No. 2922
+
