@@ -1,5 +1,5 @@
 # IMU_Logger
-C++ code to log IMU data to Adafruit feather m0 and a Adafruit featherwing data logger. SD connection made over SPI, logger connection made over I2c. Max SPI speed is
+C++ code to log IMU data to Adafruit feather m0 and a Adafruit featherwing data logger. SD connection made over SPI, IMU connection made over I2c. Max SPI speed is
 12 MHz
 
 Hardware used (All products from adafruit.com):
